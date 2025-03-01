@@ -1,0 +1,51 @@
+sorgu,isim,sehir,bolum,puan,numara,cinsiyet
+1,Ahmet Yılmaz,İstanbul,Makine Mühendisliği,85,1001,Erkek
+2,Ayşe Kaya,Ankara,Tıp,92,1002,Kadın
+3,Mehmet Demir,İzmir,Bilgisayar Mühendisliği,78,1003,Erkek
+4,Fatma Aydın,Antalya,Hukuk,88,1004,Kadın
+5,Mustafa Çelik,Bursa,Elektrik Mühendisliği,65,1005,Erkek
+6,Elif Şahin,Adana,Endüstri Mühendisliği,95,1006,Kadın
+7,Hasan Korkmaz,Konya,Kimya Mühendisliği,72,1007,Erkek
+8,Zeynep Aksoy,Eskişehir,Psikoloji,83,1008,Kadın
+9,Emre Öztürk,Trabzon,İnşaat Mühendisliği,90,1009,Erkek
+10,Selin Arslan,Mersin,Diş Hekimliği,87,1010,Kadın
+11,Ömer Faruk,İstanbul,Matematik,68,1011,Erkek
+12,Ece Güler,Ankara,Eczacılık,91,1012,Kadın
+13,Kadir Polat,İzmir,Fizik,77,1013,Erkek
+14,Büşra Erdem,Bursa,Biyoloji,84,1014,Kadın
+15,Yusuf Akın,Antalya,İktisat,70,1015,Erkek
+16,Derya Çetin,Adana,Tarih,89,1016,Kadın
+17,İsmail Doğan,Konya,Sosyoloji,82,1017,Erkek
+18,Merve Yavuz,Eskişehir,İşletme,94,1018,Kadın
+19,Burak Şimşek,Trabzon,Mimarlık,79,1019,Erkek
+20,Nurcan Aydın,Mersin,Gıda Mühendisliği,86,1020,Kadın
+21,Tolga Özdemir,İstanbul,Jeoloji,73,1021,Erkek
+22,Seda Kaplan,Ankara,Tekstil Mühendisliği,88,1022,Kadın
+23,Hakan Taş,İzmir,İstatistik,67,1023,Erkek
+24,Gizem Kurt,Bursa,Felsefe,93,1024,Kadın
+25,Eren Albayrak,Antalya,Siyaset Bilimi,81,1025,Erkek
+26,Deniz Çoban,Adana,Ziraat Mühendisliği,76,1026,Kadın
+27,Caner Uslu,Konya,Turizm İşletmeciliği,85,1027,Erkek
+28,Esra Bayram,Eskişehir,İletişim,90,1028,Kadın
+29,Umut Şen,Trabzon,Spor Bilimleri,69,1029,Erkek
+30,Pelin Ak,Mersin,Coğrafya,87,1030,Kadın
+31,Barış Er,İstanbul,Grafik Tasarım,84,1031,Erkek
+32,Tuğba Koç,Ankara,Müzik,91,1032,Kadın
+33,Serkan Ateş,İzmir,Resim,75,1033,Erkek
+34,Aslıhan Gündüz,Bursa,Sinema ve Televizyon,88,1034,Kadın
+35,Onur Baş,Antalya,Uluslararası İlişkiler,82,1035,Erkek
+36,Şeyma Toprak,Adana,Çevre Mühendisliği,89,1036,Kadın
+37,Cem Kaya,Konya,Bilgi ve Belge Yönetimi,71,1037,Erkek
+38,Hilal Yılmaz,Eskişehir,Tıp,96,1038,Kadın
+39,Arda Çiftçi,Trabzon,Fizyoterapi,80,1039,Erkek
+40,Nilgün Öz,Mersin,Hemşirelik,85,1040,Kadın
+41,Furkan Tekin,İstanbul,Otomotiv Mühendisliği,74,1041,Erkek
+42,İpek Duran,Ankara,Biyomedikal Mühendisliği,92,1042,Kadın
+43,Okan Şafak,İzmir,Malzeme Bilimi,78,1043,Erkek
+44,Bahar Keskin,Bursa,Bilgisayar Programcılığı,87,1044,Kadın
+45,Tayfun Gür,Antalya,Lojistik Yönetimi,83,1045,Erkek
+46,Sude Naz,Adana,Halkla İlişkiler,90,1046,Kadın
+47,Enes Çakır,Konya,Metalurji Mühendisliği,77,1047,Erkek
+48,Yağmur Soyadı,Eskişehir,Biyokimya,94,1048,Kadın
+49,Kerem Ünal,Trabzon,Elektronik Mühendisliği,86,1049,Erkek
+50,Sevgi Arı,Mersin,İngiliz Dili ve Edebiyatı,81,1050,Kadın
